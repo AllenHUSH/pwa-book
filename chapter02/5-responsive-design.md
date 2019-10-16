@@ -286,7 +286,7 @@ viewport 元标签的取值有 6 种，如下表所示
 
 ```css
 img, embed, object, video {
-  max-width: 100%; /* 设置 img 等元素最大宽度威 100% */
+  max-width: 100%; /* 设置 img 等元素最大宽度为 100% */
 }
 ```
 
